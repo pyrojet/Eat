@@ -1,0 +1,15 @@
+SyntaxError: "&6[&aEat&6] &eIncorrect Command Syntax! &c/eat <player> | /eatstick | /eatreload"
+PermissionError: "&6[&aEat&6] &eEither You Dont Have Permission or its a bug :c"
+OfflineError: "&6[&aEat&6] &eOops &c[offline] &eis Offline. :c"
+PlayerMsg: "&6[&aEat&6] &eYou Successfully Eaten &c[player] !"
+BroadCast: "&6[&aEat&6] &eSomeone just took a Bite of &c[player] !"
+NoSpaceMsg: "&6[&aEat&6] &eNo Enough Space in Your inventory !"
+ReloadMsg: "&6[&aEat&6] &eConfig Reloaded!"
+BloodEffect: true
+FleshDrop: true
+StickId: 280
+StickName: "&4EATING STICK"
+#. Lored DOSENT Support ColorCodes and they can have multiple lines
+Lores:
+- "Choose Your Victim Wisley"
+- "Or There Will Be Consequences!"

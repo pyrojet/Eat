@@ -1,0 +1,15 @@
+name: Eat
+main: me.Born2PvP.plugin.Eat
+author: Born2PvP, larsima
+version: 1.4
+description: Eat Your Players
+commands:
+
+  Eat:
+           description: Eat A Player !
+  EatStick:
+           description: Gives You an eating Stick !
+  Eatreload:
+           description: Reloads the Config File
+           aliases: [eatr]
+
